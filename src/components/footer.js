@@ -45,13 +45,6 @@ function Footer() {
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Videos</h2>
-            <Link to='/'>Submit Video</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
-          </div>
-          <div class='footer-link-items'>
             <h2>Social Media</h2>
             <Link to='/'>Instagram</Link>
             <Link to='/'>Facebook</Link>
@@ -64,11 +57,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              Revictus
+              Renvitus
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>Revictus © 2021</small>
+          <small class='website-rights'>Renvitus © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

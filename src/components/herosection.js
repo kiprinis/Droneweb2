@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <img src='./images/VGTU.jpg' />
-      <h1>Revictus</h1>
+      <h1>Renvitus</h1>
       <p>Automatic drone recharging system</p>
       <div className='hero-btns'>
     

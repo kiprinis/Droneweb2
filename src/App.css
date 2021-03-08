@@ -6,8 +6,8 @@
 }
 
 .home,
-.services,
-.products,
+.hardware,
+.software,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -16,17 +16,17 @@
   font-size: 3rem;
 }
 
-.services {
+.hardware {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: black;
   font-size: 100px;
 }
 
-.products {
+.software {
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
   color: black;
   font-size: 100px;
@@ -36,6 +36,6 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
+  color: black;
+  font-size: 50px;
 }
